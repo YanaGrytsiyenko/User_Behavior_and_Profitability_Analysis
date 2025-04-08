@@ -11,11 +11,11 @@ I completed using Google Sheets to integrate multiple CSV datasets, create pivot
 ---
 
 ## Table of Contents
-1. [Project Description](#-project-description)
+1. [Project Description](#project-description)
 2. [Data Overview](#-data-overview)
 3. [Tools and Technologies](#-tools-and-technologies)
 4. [Data Analysis Workflow](#-data-analysis-workflow)
-5. [Key Findings](#-key-findings)
+5. [Key Findings](#key-findings)
 6. [Contacts](#-contacts)
 
 ---
